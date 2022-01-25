@@ -82,7 +82,7 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MDussaillant/athon-pronunciation.git/HEAD)
 
-[Launch Voilà](https://mybinder.org/v2/gh/MDussaillant/athon-pronunciation.git.git/HEAD?urlpath=voila%2Frender%2Fnotebook%2FMathieu_Dussaillant_App.ipynb)
+[Launch Voilà](https://mybinder.org/v2/gh/MDussaillant/athon-pronunciation.git/HEAD?urlpath=voila%2Frender%2Fnotebook%2FMathieu_Dussaillant_App.ipynb)
 
 
 
